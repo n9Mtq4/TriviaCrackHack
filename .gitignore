@@ -7,6 +7,13 @@
 *.jar
 *.war
 *.ear
+*.apk
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+.idea
+build
+*gradle*
+local.properties
+*.iml
